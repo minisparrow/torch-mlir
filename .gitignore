@@ -31,7 +31,10 @@ bazel-*
 #Docker builds
 build_oot/
 docker_venv/
+venv_docker/
 llvm-build/
 
 # C++ build artifacts
 compile_commands.json
+torch_mlir_venv
+*.mlir
